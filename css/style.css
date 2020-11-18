@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+.big-container {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  padding-top: 50px;
+}
+
+img{
+  width: 400px;
+  height: auto;
+  display: inline-block;
+}
