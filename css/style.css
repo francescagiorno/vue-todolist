@@ -16,3 +16,11 @@ img{
   height: auto;
   display: inline-block;
 }
+.list{
+  justify-content: space-between;
+  display: flex;
+  list-style-type: none;
+  padding: 10px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid black;
+}
